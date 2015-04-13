@@ -22,7 +22,7 @@ header hr {margin:0;padding:0;background-color:#000;}
 nav {text-align:center;padding:4px 0;margin:0;}
 nav ul {padding:0;margin:0;width:100%;display:table;table-layout:fixed;}
 nav ul li {display:table-cell;width:auto;text-align:center;}
-nav ul li a {color:#000;text-decoration:none;}
+nav ul li a {color:#000;text-decoration:none;outline:0;}
 a:hover {text-decoration:underline;color:#e96e22;}
 
 #main-body {/*background:url(../img/body-bg.png) 0 0 repeat;*/background-color:rgba(192, 192, 192, 0.8); padding:30px 40px 10px;margin:0;}
@@ -32,7 +32,7 @@ a:hover {text-decoration:underline;color:#e96e22;}
 #main-body article .news-date {font-size:12px;padding:0;margin:0;font-weight:normal;font-style:normal;color:#e96e22;}
 #main-body article p {font-size:14px;padding:0;margin:0;font-weight:normal;font-style:normal;}
 #main-body article img {display:block;border:none;margin-bottom:8px;}
-article a {color:#000;text-decoration:none;}
+article a {color:#000;text-decoration:none;outline:0;}
 article h2 + div {padding-top:8px;}
 article #info {padding:0 0 12px 0;}
 article #info ol {margin:0;padding:0 0 10px 30px;}
