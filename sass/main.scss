@@ -25,7 +25,7 @@ nav ul li {display:table-cell;width:auto;text-align:center;}
 nav ul li a {color:#000;text-decoration:none;}
 a:hover {text-decoration:underline;color:#e96e22;}
 
-#main-body {background:url(../img/body-bg.png) 0 0 repeat;padding:30px 40px 10px;margin:0;}
+#main-body {/*background:url(../img/body-bg.png) 0 0 repeat;*/background-color:rgba(192, 192, 192, 0.8); padding:30px 40px 10px;margin:0;}
 #main-body article {border-bottom:1px solid #000;padding-bottom:10px;margin-bottom:20px;}
 #main-body article h2 {font-size:20px;padding:0;margin:0;font-weight:normal;font-style:normal;}
 #main-body article h3 {font-size:16px;padding:0;margin:0;font-weight:normal;font-style:normal;}
