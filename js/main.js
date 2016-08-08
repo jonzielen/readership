@@ -1,4 +1,4 @@
 $(function() {
 	//	backstretch plugin
-	$.backstretch("img/webbackground.jpg");
+	$.backstretch("img/einstein.jpg");
 });
