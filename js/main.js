@@ -1,4 +1,4 @@
 $(function() {
 	//	backstretch plugin
-	$.backstretch("img/einstein.jpg");
+	$.backstretch("img/readership-band-photo.jpg");
 });
