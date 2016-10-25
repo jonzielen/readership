@@ -529,15 +529,16 @@ a:hover {
   color: #e96e22;
 }
 
-
 #main-body article p {
   font-size: 14px;
-  padding: 0;
-  margin: 0;
   font-weight: normal;
   font-style: normal;
 }
 
+#main-body article p:last-of-type {
+  padding: 0;
+  margin: 0;
+}
 
 #main-body article img {
   display: block;
