@@ -554,6 +554,10 @@ a:hover {
   margin-bottom: 8px;
 }
 
+img:nth-child(n+1) {
+  margin-bottom: 24px;
+}
+
 
 article a {
   color: #000;

@@ -1,4 +1,4 @@
 $(function() {
 	//	backstretch plugin
-	$.backstretch("img/cat-portrait-vintage-background.jpg");
+	$.backstretch("img/Winslow_Homer.jpg");
 });
